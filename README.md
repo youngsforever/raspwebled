@@ -3,3 +3,5 @@
 
 详细教程：https://www.youngsforever.online/
 （PS：正在写，等等我）
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngsforever)](https://github.com/anuraghazra/github-readme-stats)
